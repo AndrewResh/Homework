@@ -1,0 +1,8 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Project17, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>C:\Users\Andrew Reshetnikov\source\repos\Project17\Project17\Source.cpp(161,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>C:\Users\Andrew Reshetnikov\source\repos\Project17\Project17\Source.cpp(184): error C4700: использована неинициализированная локальная переменная "k"
+1>C:\Users\Andrew Reshetnikov\source\repos\Project17\Project17\Source.cpp(184): error C4700: использована неинициализированная локальная переменная "m"
+1>Сборка проекта "Project17.vcxproj" завершена с ошибкой.
+========== Сборка: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========

@@ -1,0 +1,18 @@
+﻿"Project17.exe" (Win32). Загружено "C:\Users\Andrew Reshetnikov\source\repos\Project17\Debug\Project17.exe". Символы загружены.
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Project17.exe" (Win32). Загружено "C:\Program Files\AVAST Software\Avast\x86\aswhook.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0xf48 завершился с кодом 0 (0x0).
+Поток 0x4edc завершился с кодом 0 (0x0).
+Поток 0x3954 завершился с кодом 0 (0x0).
+Поток 0x4fd4 завершился с кодом 0 (0x0).
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Project17.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x30c4 завершился с кодом 0 (0x0).
+Поток 0x9c0 завершился с кодом 0 (0x0).
+Программа "[4912] Project17.exe" завершилась с кодом 0 (0x0).
