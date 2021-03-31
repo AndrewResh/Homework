@@ -141,6 +141,7 @@ void printArrayFull(int* arr, int sizefull)
 
 int main()
 {
+    setlocale(LC_ALL, "Russian");
     string filename1 = "array_data1.txt";
     string filename2 = "array_data2.txt";
     string filename3 = "array_data3.txt";
